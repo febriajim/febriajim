@@ -8,7 +8,7 @@ Let me introduce myself, my name is Febri Aji Maulana from Banyuwangi, East Java
 
 <a href="https://www.instagram.com/febriajimaulana"><img src="https://img.shields.io/badge/Instagram-E4405A?style=flat&logo=instagram&logoColor=white" /></a>
 <a href="https://t.me/febxx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
-<a href="https://wa.me/+6285853831050"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
 
 #### Language and Tools
 
